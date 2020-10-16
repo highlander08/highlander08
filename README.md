@@ -9,8 +9,7 @@
 
 Evoluindo nas melhores tecnologias de desenvolvimento web & mobile.
 
-desenvolvendo interfaces das tecnologias mais atuais do mercado para ter a base dos melhores sites e produto ..
+Desenvolvendo interfaces das tecnologias mais atuais do mercado para ter a base dos melhores sites e produto ..
 
-
-" persistência é a palavra chave.  Jesus Ama o Dom , mas recompensa o Determinado. Gênio sem pratica, não supera o homem focado..
+Persistência é a palavra chave.  Jesus Ama o Dom , mas recompensa o Determinado. Gênio sem pratica, não supera o homem focado..
 #Estudo #Pratica #Network #Foguete_Não_Tem_Ré 🚀 
