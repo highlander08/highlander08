@@ -1,7 +1,7 @@
  # Highlander Santos 🚀
 ![illustration](https://user-images.githubusercontent.com/38596921/96457357-0b0d9a80-11f6-11eb-8735-4af6323965f8.png)
 
-🚀 Desenvolvedor Front-End
+💻 Desenvolvedor Front-End
 
 [![Twitter Badge](https://img.shields.io/badge/-@Rai00991-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Rai00991)](https://twitter.com/Rai00991) 
 [![Linkedin Badge](https://img.shields.io/badge/-Highlander%20Santos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/highlander08/)](https://www.linkedin.com/in/highlander08/) 
