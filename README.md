@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-highlanderiniesta@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:highlanderiniesta@gmail.com)](mailto:highlanderiniesta@gmail.com)
 
 
-Evoluindo nas melhores tecnologias de desenvolvimento web & mobile.
+Evoluindo nas melhores tecnologias de desenvolvimento ReactJS E Node.js
 
 Desenvolvendo interfaces das tecnologias mais atuais do mercado para ter a base dos melhores sites e produto ..
 
