@@ -1,6 +1,5 @@
  # Highlander Santos 🚀
-![illustration](https://user-images.githubusercontent.com/38596921/96457357-0b0d9a80-11f6-11eb-8735-4af6323965f8.png)![AnyConv com__2223e0f0-7884-40b2-a263-e2ebfadedaf6](https://user-images.githubusercontent.com/38596921/115157987-5a783a80-a062-11eb-8602-62293eeb0de8.jpg)
-
+![illustration](https://user-images.githubusercontent.com/38596921/96457357-0b0d9a80-11f6-11eb-8735-4af6323965f8.png)
 💻 Desenvolvedor Front-End
 
 [![Twitter Badge](https://img.shields.io/badge/-@Rai00991-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Rai00991)](https://twitter.com/Rai00991) 
@@ -14,3 +13,5 @@ Desenvolvendo interfaces das tecnologias mais atuais do mercado para ter a base 
 
 Persistência é a palavra chave.  Jesus Ama o Dom , mas recompensa o Determinado. Gênio sem pratica, não supera o homem focado..
 ## Network 🚀 
+![AnyConv com__2223e0f0-7884-40b2-a263-e2ebfadedaf6](https://user-images.githubusercontent.com/38596921/115157987-5a783a80-a062-11eb-8602-62293eeb0de8.jpg)
+
