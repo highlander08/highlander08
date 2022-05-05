@@ -1,6 +1,32 @@
- <img src="https://user-images.githubusercontent.com/38596921/96457357-0b0d9a80-11f6-11eb-8735-4af6323965f8.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador matheus">
+<h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Pleasure, I'm Highlander Santos </h1>
+<img src="https://i.pinimg.com/originals/bd/3d/3e/bd3d3e01c2d5d1011283a750cb3ea138.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador matheus">
  
- # 💻 Desenvolvedor Full Stack 🚀
+- 🔥  Desenvolvedor Full Stack 
+ 
+- 🔭 I’m currently working at [Lanlink](https://www.lanlink.com.br/)
+
+<!-- - 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev) -->
+
+- ▶️ I regularly post videos on [youtube.com/raysantos](https://www.youtube.com/channel/UC_wBKh8gWX2YgEzW7YARZSw/videos)
+
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Typescript, Prisma, Nestjs, Azure**
+
+<!-- - ⚡ Fun fact **Oneye 😜** -->
+
+<br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<br>
 
 Evoluindo nas melhores tecnologias de desenvolvimento ReactJS E Node.js
 
