@@ -1,4 +1,4 @@
-<h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px"> Pleasure, I'm Highlander Santos </h1>
+<h1 align="left"> Pleasure, I'm Highlander Santos </h1>
 <img src="https://i.pinimg.com/originals/0e/0b/51/0e0b5133da7b301e6f0d466090a79855.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador matheus">
  
 - 🔥  Desenvolvedor Full Stack 
