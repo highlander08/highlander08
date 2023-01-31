@@ -29,10 +29,6 @@
 ![TypeScript](https://img.shields.io/badge/types-Flow%20%7C%20TypeScript-blue)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-figma-red)&nbsp;
 
-
-
-
-
 <br>
 
 Evoluindo nas melhores tecnologias de desenvolvimento ReactJS E Node.js
@@ -44,6 +40,7 @@ Desenvolvendo interfaces das tecnologias mais atuais do mercado para ter a base 
 
 ## 🧭 Legado 
 Persistência é a palavra chave.  Jesus Ama o dom ,mas recompensa o Determinado. Gênio sem pratica, não supera o homem focado.
+
 
 
 
