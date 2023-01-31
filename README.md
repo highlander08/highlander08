@@ -1,8 +1,8 @@
 <h1 align="left"> Pleasure, I'm Highlander Santos 🛑 </h1>
 
-- 🔥  Desenvolvedor Full Stack [Perfil](https://www.linkedin.com/in/highlandersantos/)
+- 🔥  Desenvolvedor Full Stack [Perfil](https://highlander-portfolio.netlify.app/)
 
-- ✅ Perfil [Linkedin](https://highlander-portfolio.netlify.app/)
+- ✅ Perfil [Linkedin](https://www.linkedin.com/in/highlandersantos/)
  
 - 🔭 I’m currently working at [Lanlink](https://www.lanlink.com.br/)
 
@@ -40,7 +40,6 @@ Evoluindo nas melhores tecnologias de desenvolvimento ReactJS E Node.js
 Desenvolvendo interfaces das tecnologias mais atuais do mercado para ter a base dos melhores sites e produto ..
 ## 🚀  Network 
 [![Twitter Badge](https://img.shields.io/badge/-@Rai00991-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Rai00991)](https://twitter.com/Rai00991) 
-[![Linkedin Badge](https://img.shields.io/badge/-Highlander%20Santos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/highlander08/](https://www.linkedin.com/in/highlandersantos/))](https://www.linkedin.com/in/highlander08/) 
 [![Gmail Badge](https://img.shields.io/badge/-highander@lanlink.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:highander@lanlink.com.br)](mailto:highlanderiniesta@gmail.com)
 
 ## 🧭 Legado 
