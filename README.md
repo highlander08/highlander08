@@ -1,6 +1,8 @@
 <h1 align="left"> Pleasure, I'm Highlander Santos 🛑 </h1>
 
-- 🔥  Desenvolvedor Full Stack [Perfil](https://highlander-portfolio.netlify.app/)
+- 🔥  Desenvolvedor Full Stack [Perfil](https://www.linkedin.com/in/highlandersantos/)
+
+- ✅ Perfil [Linkedin](https://highlander-portfolio.netlify.app/)
  
 - 🔭 I’m currently working at [Lanlink](https://www.lanlink.com.br/)
 
