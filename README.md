@@ -2,10 +2,8 @@
 <!--   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> -->
 </a> </h1>
 
-- 🔥  Desenvolvedor Full Stack [Perfil](https://highlander-portfolio.netlify.app/)
+- 🔥  Desenvolvedor Software [Perfil](https://highlander-portfolio.netlify.app/)
  
-
-
 <!-- - 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev) -->
 
 - ▶️ I regularly post videos on [youtube.com/raysantos](https://www.youtube.com/channel/UC_wBKh8gWX2YgEzW7YARZSw/videos)
