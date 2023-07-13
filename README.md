@@ -1,10 +1,10 @@
 <h1 align="left"> Pleasure, I'm Highlander Santos <a href="https://www.linkedin.com/in/highlandersantos/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<!--   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> -->
 </a> </h1>
 
 - 🔥  Desenvolvedor Full Stack [Perfil](https://highlander-portfolio.netlify.app/)
  
-- 🔭 I’m currently working at [Lanlink](https://www.lanlink.com.br/)
+
 
 <!-- - 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev) -->
 
