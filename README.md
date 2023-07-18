@@ -1,4 +1,4 @@
-<h1 align="left"> Pleasure, I'm Highlander Santos <a href="https://www.linkedin.com/in/highlandersantos/">
+<h1 align="left"> I'm Highlander Santos <a href="https://www.linkedin.com/in/highlandersantos/">
 <!--   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> -->
 </a> </h1>
 
