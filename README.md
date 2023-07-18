@@ -33,7 +33,7 @@ Evoluindo nas melhores tecnologias de desenvolvimento ReactJS E Node.js
 Desenvolvendo interfaces das tecnologias mais atuais do mercado para ter a base dos melhores sites e produto ..
 ## 🚀  Network 
 [![Twitter Badge](https://img.shields.io/badge/-@Rai00991-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Rai00991)](https://twitter.com/Rai00991) 
-[![Gmail Badge](https://img.shields.io/badge/-santosray62@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santosray62@gmail.com)](mailto:highlanderiniesta@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-santosray62@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santosray62@gmail.com)](mailto:santosray62@gmail.com)
 
 ## 🧭 Legado 
 Persistência é a palavra chave.  Jesus Ama o dom ,mas recompensa o Determinado. Gênio sem pratica, não supera o homem focado.
