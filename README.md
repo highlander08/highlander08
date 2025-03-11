@@ -1,45 +1,34 @@
+# 💻 Highlander de Oliveira Santos
+
+## 🚀 Sobre Mim
+Sou **Engenheiro de Software** especializado em **backend**, com vasta experiência no desenvolvimento de sistemas escaláveis e de alta performance. Meu foco é criar soluções eficientes e inovadoras para desafios complexos.
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Backend:** NestJS, TypeORM, PostgreSQL, Redis
+- **Arquitetura:** Clean Architecture, SOLID, Repository Pattern, Microsserviços
+- **Mensageria:** Kafka, RabbitMQ
+- **Bancos de Dados:** SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Redis)
+- **Cloud Computing:** AWS, Azure, GCP
+- **Segurança:** OAuth 2.0, JWT, segurança em APIs
+- **Monitoramento:** Prometheus, Grafana, ELK Stack
+- **DevOps:** Docker, Kubernetes, CI/CD
+- **Frontend:** React.js, Next.js
+
+## 💼 Projetos em Destaque
+- **[Chatbot Inteligente para Atendimento](#)** → Atendimento ao cliente com API Gemini Google, NestJS e PostgreSQL.
+- **[Software de Operador de Caixa](#)** → Solução para mercados pequenos usando NestJS e TypeORM.
 
 
-<h1 align="left"> I'm Highlander Santos <a href="https://www.linkedin.com/in/highlandersantos/">
-<!--   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> -->
-</a> </h1>
+## 📈 Objetivos e Visão
+Sou apaixonado por tecnologia e inovação. Atualmente, estou focado em:
+- Expandir minha empresa **InovaSoft**, criando softwares para impactar muitas pessoas.
+- Criar um curso de backend para compartilhar conhecimento com amigos e comunidade.
+- Aprofundar conhecimentos em **microservices**, **AI** e **automação de processos**.
 
+## 📫 Conecte-se comigo
+- LinkedIn: [linkedin.com/in/highlandersantos](#)
+- GitHub: [github.com/highlander08](#)
+- E-mail: [santosray62@gmail.com](#)
 
-<!-- - 🔥  Desenvolvedor Software [Perfil](https://highlander-portfolio.netlify.app/) -->
- 
-<!-- - 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev) -->
-
-<!-- - ▶️ I regularly post videos on [youtube.com/raysantos](https://www.youtube.com/channel/UC_wBKh8gWX2YgEzW7YARZSw/videos) -->
-
-- 💬 Ask me about **React, JavaScript, HTML, CSS, SQL, Node.JS, Typescript, Prisma, Nestjs, Azure, Figma** 
-
-<!-- - ⚡ Fun fact **Oneye 😜** -->
-
-<br>
-
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
-<br>
-
-Evoluindo nas melhores tecnologias de desenvolvimento ReactJS E Node.js
-
-Desenvolvendo interfaces das tecnologias mais atuais do mercado para ter a base dos melhores sites e produto ..
-## 🚀  Network  
-[![Gmail Badge](https://img.shields.io/badge/-santosray62@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santosray62@gmail.com)](mailto:santosray62@gmail.com)
-
-## 🧭 Legado 
-Persistência é a palavra chave.  Jesus Ama o dom ,mas recompensa o Determinado. Gênio sem pratica, não supera o homem focado.
-
-
-
-
+Sempre aberto para colaborações e novas oportunidades! 🚀
