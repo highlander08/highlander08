@@ -1,7 +1,7 @@
 # 💻 Highlander de Oliveira Santos
 
 ## 🚀 Sobre Mim
-Sou **Engenheiro de Software** especializado em **backend**, com vasta experiência no desenvolvimento de sistemas escaláveis e de alta performance. Meu foco é criar soluções eficientes e inovadoras para desafios complexos.
+Sou **Engenheiro de Software**, com vasta experiência no desenvolvimento de sistemas escaláveis e de alta performance. Meu foco é criar soluções eficientes e inovadoras para desafios complexos.
 
 ## 🛠️ Tecnologias e Ferramentas
 
