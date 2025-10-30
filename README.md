@@ -16,8 +16,8 @@ Sou **Engenheiro de Software**, com vasta experiência no desenvolvimento de sis
 - **Frontend:** React.js, Next.js
 
 ## 💼 Projetos em Destaque
-- **[Chatbot Inteligente para Atendimento](#)** → Atendimento ao cliente com API Gemini Google, NestJS e PostgreSQL.
-- **[Software de Operador de Caixa](#)** → Solução para mercados pequenos usando NestJS e TypeORM.
+- Chatbot Inteligente para Atendimento → Atendimento ao cliente com API Gemini Google, NestJS e PostgreSQL.
+- Software de Operador de Caixa → Solução para mercados pequenos usando NestJS e TypeORM.
 
 
 ## 📈 Objetivos e Visão
